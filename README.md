@@ -1,2 +1,3 @@
 # Python-Mini-Projects
-This repository contains my mini projects 
+1. Simple calculator
+2. Random number guessor
